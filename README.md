@@ -15,10 +15,10 @@
 
 #### :muscle: 挑战一下自己:
 - 三年源码五年轮子计划！
-- 每天三道算法题🚀
+- 每天三道算法题
 - 每个星期锻炼三天
 
-####: 正在维护的开源项目
+#### ✒️ 我的开源项目
 - [MyCache](https://github.com/kuailechengxuyuan/MyCache) 🚀
 
 
