@@ -8,12 +8,12 @@
 <img align="right" alt="img" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
+#### 🌱 我正在做: 
 - 完成我的硕士学业  
 - 整理面经，准备秋招
 - Business practices on [bi4 Group Spain](https://github.com/bi4group)  *coming soon*
 
-#### :muscle: Things I am challenging myself with:
+#### :muscle: 挑战一下自己:
 - 三年源码五年轮子计划！
 - 每天三道算法题🚀
 - 每个星期锻炼三天
