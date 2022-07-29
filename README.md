@@ -27,9 +27,8 @@
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://github.com/kuailechengxuyuan/kuailechengxuyuan/blob/main/MyBatis.png"></code>
-
+<code><img width="10%" height="10" src="https://github.com/kuailechengxuyuan/kuailechengxuyuan/blob/main/MyBatis.png"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
