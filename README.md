@@ -1,7 +1,7 @@
 ### Hi  👋 
 ### 欢迎来到我的个人主页!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kuailechengxuyuan)
 
 我是小张同学! 目前就读于南京邮电大学电子信息专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员! 
 
@@ -11,7 +11,6 @@
 #### 🌱 我正在做: 
 - 完成我的硕士学业  
 - 整理面经，准备秋招
-- Business practices on [bi4 Group Spain](https://github.com/bi4group)  *coming soon*
 
 #### :muscle: 挑战一下自己:
 - 三年源码五年轮子计划！
