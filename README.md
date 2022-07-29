@@ -5,7 +5,7 @@
 
 我是小张同学! 目前就读于南京邮电大学电子信息专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员! 
 
-<img align="right" alt="img" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/kuailechengxuyuan/kuailechengxuyuan/blob/main/coding.gif" width="50%" height="auto" />
 
 
 #### 🌱 我正在做: 
