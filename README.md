@@ -12,10 +12,12 @@
 - 完成我的硕士学业  
 - 整理面经，准备秋招
 
+
 #### :muscle: 挑战一下自己:
 - 三年源码五年轮子计划！
 - 每天三道算法题🚀
 - 每个星期锻炼三天
+
 
 #### :computer: Programming languages and tools: 
 <p>
