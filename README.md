@@ -10,14 +10,13 @@
 
 #### 🌱 Things I am currently working on: 
 - 完成我的硕士学业  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- 整理面经，准备秋招
+- Business practices on [bi4 Group Spain](https://github.com/bi4group)  *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - 三年源码五年轮子计划！
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+- 每天三道算法题🚀
+- 每个星期锻炼三天
 
 #### :computer: Programming languages and tools: 
 <p>
